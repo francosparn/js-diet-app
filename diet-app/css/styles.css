@@ -1,0 +1,83 @@
+.diet-icon {
+    margin-bottom: -50px;
+    width: 50px;
+    height: 50px;
+}
+
+.diet-title {
+    margin-left: 60px;
+}
+
+.head {
+    padding-top: 0px;
+    margin-bottom: -20px;
+}
+
+.button {
+    float: right;
+    color: #fff !important;
+    background-color: rgb(245, 20, 20);
+    padding: 5px 10px 10px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(173, 36, 36);
+}
+
+.delete {
+    width: 20px;
+    height: 20px;
+}
+
+input[type="text"],
+input[type="date"] {
+    margin-bottom: -20px;
+}
+
+textarea {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.date {
+    margin-top: 20px;
+}
+
+#date,
+#breakfast,
+#lunch,
+#snack,
+#dinner,
+#question {
+    padding-left: 40px;
+    line-height: 28px;
+}
+
+#question {
+    height: 150px;
+}
+
+.breakfast-img {
+    margin-bottom: -60px;
+    padding-left: 11px;
+}
+
+.date-img,
+.lunch-img,
+.snack-img,
+.dinner-img {
+    margin-bottom: -60px;
+    margin-left: 10px;
+}
+
+.question-img {
+    position: absolute;
+    padding-left: 12px;
+    margin-top: 10px;
+}
+
+.foods-card {
+    margin-top: -24px;
+}
